@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="my_adc" translatable="false">Мои объявления</string>
+    <string name="cars_ads" translatable="false">Машины</string>
+    <string name="pc_adc" translatable="false">Компьютеры</string>
+    <string name="smartphone_ads" translatable="false">Смартфоны</string>
+    <string name="dm_ads" translatable="false">Бытова техника</string>
+    <string name="sign_up" translatable="false">Регистрация</string>
+    <string name="sign_in" translatable="false">Вход</string>
+    <string name="sign_out" translatable="false">Выход</string>
+    <string name="account" translatable="false">Аккаунт</string>
+</resources>
